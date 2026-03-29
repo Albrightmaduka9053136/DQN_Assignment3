@@ -1,4 +1,4 @@
 Experiment,Batch Size,Target Update Episodes,Final Score,Final Avg Reward Last 5,Max Score,Max Avg Reward Last 5,Total Steps
-Baseline,8,10,-21.0,-20.8,-19.0,-20.0,28300
-Batch Size Test,16,10,-21.0,-20.2,-18.0,-19.6,26809
-Target Update Test,8,3,-21.0,-20.2,-19.0,-20.0,26846
+Baseline,8,10,-19.0,-20.0,-18.0,-19.0,28510
+Batch Size Test,16,10,-21.0,-20.8,-18.0,-19.0,27923
+Target Update Test,8,3,-20.0,-20.4,-19.0,-20.2,26361
